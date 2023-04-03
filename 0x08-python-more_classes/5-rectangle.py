@@ -1,4 +1,6 @@
- module with a Rectangle that does nothing
+#!/usr/bin/python3
+"""
+A module with a Rectangle that does nothing
 """
 
 
